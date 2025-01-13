@@ -1,0 +1,27 @@
+body{
+    background-color: midnightblue;
+    justify-self:center;
+}
+#div {
+    height: 200px;
+    width: 250px;
+    border: 1px solid white;
+    background-color: white;
+}
+
+#div1 {
+    height: 66.66px;
+    width: 250px;
+    background-color: rgb(0, 102, 179);
+}
+
+#div2 {
+    height: 66.66px;
+    width: 250px;
+    background-color: rgb(35, 31, 32);
+}
+
+#div3 {
+    height: 66.66px;
+    width: 250px;
+ }
